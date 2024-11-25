@@ -4,6 +4,7 @@
 // import { DB_NAME } from "./constants";
 // import{dotenv} from ".dotenv/config";
 import connectDB from "./db/index.js";
+import {app} from "./app.js"
 dotenv.config();
 
 
